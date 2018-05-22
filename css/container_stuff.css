@@ -1,0 +1,83 @@
+
+.logo-wrapper-left {
+    float:left;
+}
+
+.logo-wrapper-right {
+    float:right;
+}
+
+.logo-wrapper img{
+    max-width:100%
+}
+
+.logo-left {
+    position: relative;
+    margin: 78px 18px;
+    height: 40px;
+    width: 40px;
+}
+.logo-right {
+    position: relative;
+    margin: 78px 22px;
+    height: 40px;
+    width: 40px;
+}
+
+.card-img{
+    float: left;
+    margin-right:1rem;
+}
+
+.card-font-small{
+    display:inline;
+    font-size: .7em;
+    color: grey;
+    border-bottom: 1px solid lightblue;
+}
+
+.card-font-big {
+    display: inline;
+    font-size: 1em;
+    font-weight: bolder
+}
+
+.center-image{
+    display: block;
+    margin-top: 13px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    border: none;
+    height: 2.5px;
+    margin-top: 3px;
+    color: #DCDEE3; /* old IE */
+    background-color: #DCDEE3; /* Modern Browsers */
+}
+
+.cool-bolded-title{
+    font-size: 1.3em;
+    font-weight: bolder
+}
+
+.donuts-image{
+    width: 100%;
+}
+
+.trending-image{
+    float: left;
+    margin-right:0.3rem;
+}
+
+.cool-trending-title{
+    font-size: 1.1em;
+    font-weight: bolder;
+    padding-top: 7px;
+}
+
+.wierd-lady-img{
+    float: left;
+    height: 110px;
+}
